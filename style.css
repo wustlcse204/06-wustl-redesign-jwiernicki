@@ -1,3 +1,16 @@
+body{
+  background-color: LightGrey;
+}
+
+header{
+  padding: 20px;
+  font-size: 30px;
+}
+
+.navbar{
+  font-color: Black;
+}
+
 .container{
   padding: 20px;
 }
